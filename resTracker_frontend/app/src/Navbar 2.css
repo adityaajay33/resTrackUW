@@ -1,0 +1,29 @@
+.linksOnline{
+
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+.navbar{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 70px;
+    
+}
+
+.mainLinks{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.mainLinks:hover{
+
+    background-color: rgb(62, 61, 64);
+}
