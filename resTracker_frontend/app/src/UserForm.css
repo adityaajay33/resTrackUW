@@ -1,0 +1,61 @@
+.primaryContainer{
+
+    height: 800px;
+}
+
+.formUser{
+
+    width: 30%;
+    background-color: black;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 35%;
+    border: solid 2px rgb(51, 49, 49);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+
+    font-size: 40px;
+    margin-left: 30%;
+    margin-top: 15px;
+    height: 55px;
+    font-family: "Inter", Sans-Serif;
+    font-family: 'Poppins', sans-serif;
+    
+    font-weight: 300;
+}
+
+.boxes{
+
+    height: 80px;
+}
+
+.inputBox{
+    height: 70px;
+    border-radius: 5px;
+    border: solid 1px rgb(53, 43, 43);
+    margin-left: 20px;
+    width: 90%;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.inputInfo{
+    margin-top: 20px;
+}
+
+.buttonReg{
+
+    width: 40%;
+    border-radius: 0px;
+    height: 70px;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 30%;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
