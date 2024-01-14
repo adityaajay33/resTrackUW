@@ -1,0 +1,21 @@
+{
+  "name": "restracker_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "openai": "^4.24.7",
+    "requests": "^0.3.0",
+    "twilio": "^5.0.0-rc.1"
+  }
+}
